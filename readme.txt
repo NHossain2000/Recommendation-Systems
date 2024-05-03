@@ -48,4 +48,4 @@ Steps and Tasks
 ●Designthe3differenttypesofrecommendationmodulesasmentionedinthe objectives.
 ●Additional/Optional: Create a GUI interface using Python libraries(ipywidgetsetc.)to play around with the recommendation modules.
 
-
+Dataset- https://www.kaggle.com/code/ayushimishra2809/movie-recommendation-system/data?select=ratings.csv
